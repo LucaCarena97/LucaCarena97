@@ -5,9 +5,17 @@
 Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes. Me encanta enfrentar nuevos desafíos tecnológicos y siempre busco mejorar y aprender de manera continua. Mi objetivo es seguir creciendo profesionalmente y aportar ideas innovadoras al desarrollo web.
 
 ## 📚 Mis habilidades:
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, Next.js, Astro
-- **Herramientas:** Git, GitHub, Vite
+- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg) **JavaScript**
+- ![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg) **TypeScript**
+- ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg) **HTML**
+- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg) **CSS**
+- ![React](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg) **React**
+- ![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg) **Next.js**
+- ![Astro](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/astro.svg) **Astro**
+- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg) **Git**
+- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg) **GitHub**
+- ![Vite](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vite.svg) **Vite**
+
 
 ## 🌱 Proyectos recientes:
 - [**Piedra, Papel o Tijera**](https://github.com/LucaCarena97/Piedra-Papel-o-Tijera)
@@ -15,7 +23,3 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 ## 🚀 Conéctame:
 - [LinkedIn](https://www.linkedin.com/in/luca-carena-463855127/)
 - [Portfolio Web](https://luca-carena-web.vercel.app/)
-
-## 📈 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Luca-Carena&show_icons=true&hide_title=true)
-
