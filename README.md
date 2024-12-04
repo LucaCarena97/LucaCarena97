@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Max 👋
 
-<!--
-**LucaCarena97/LucaCarena97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes. Me encanta enfrentar nuevos desafíos tecnológicos y siempre busco mejorar y aprender de manera continua. Mi objetivo es seguir creciendo profesionalmente y aportar ideas innovadoras al desarrollo web.
 
-Here are some ideas to get you started:
+## 📚 Mis habilidades:
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** React, Next.js, Astro
+- **Herramientas:** Git, GitHub, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Proyectos recientes:
+- [**Piedra, Papel o Tijera**](https://github.com/LucaCarena97/Piedra-Papel-o-Tijera)
+
+## 🚀 Conéctame:
+- [LinkedIn](https://www.linkedin.com/in/luca-carena-463855127/)
+- [Portfolio Web](https://luca-carena-web.vercel.app/)
+
+## 📈 Estadísticas de GitHub:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Luca-Carena&show_icons=true&hide_title=true)
+
+## 📸 Banner:
+![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
