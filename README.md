@@ -1,4 +1,4 @@
-# Hola, soy Max 👋
+# Hola, soy Luca 👋
 
 Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes. Me encanta enfrentar nuevos desafíos tecnológicos y siempre busco mejorar y aprender de manera continua. Mi objetivo es seguir creciendo profesionalmente y aportar ideas innovadoras al desarrollo web.
 
