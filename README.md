@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 # Hola, soy Luca 👋
 
 Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes. Me encanta enfrentar nuevos desafíos tecnológicos y siempre busco mejorar y aprender de manera continua. Mi objetivo es seguir creciendo profesionalmente y aportar ideas innovadoras al desarrollo web.
@@ -17,5 +19,3 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 ## 📈 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Luca-Carena&show_icons=true&hide_title=true)
 
-## 📸 Banner:
-![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
