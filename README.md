@@ -22,9 +22,14 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-## 🌱 Proyectos:
+## 💡 Proyectos Destacados:
 
-- [**Piedra, Papel o Tijera**](https://github.com/LucaCarena97/Piedra-Papel-o-Tijera)
+- 🌐 [**Portafolio Web**](https://gitlab.com/lucacarena98/web_personal_2)
+- 🏆 [**Final Front III Digital House**](https://github.com/LucaCarena97/Final_FrontIII)
+- 🛍️ [**Web Producto-Precio**](https://github.com/LucaCarena97/Web-React)
+- 🚀 [**Desafío APX - Web Personal**](https://github.com/LucaCarena97/Web-components?tab=readme-ov-file)
+- 🌐 [**Web Personal**](https://gitlab.com/lucacarena98/web_personal)
+- 🏢 [**Chetifabene - No Country**](https://github.com/No-Country/c16-24-n-node-react/tree/dev)
 
 
 ## 🚀 Contacto:
