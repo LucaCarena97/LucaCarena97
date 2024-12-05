@@ -33,3 +33,5 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 [![Portfolio Badge](https://img.shields.io/badge/-%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://luca-carena-web.vercel.app/)](https://luca-carena-web.vercel.app/)
 [![GitLab Badge](https://img.shields.io/badge/-Mi%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/lucacarena98)](https://gitlab.com/lucacarena98)
 
+## 📊 Estadísticas:
+![GitHub Commits Total](https://github-readme-stats.vercel.app/api?username=LucaCarena97&show_icons=true&include_all_commits=true&count_private=true&custom_title=Total%20Commits)
