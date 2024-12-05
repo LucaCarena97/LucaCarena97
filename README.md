@@ -6,6 +6,7 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 
 
 ## 📚 Mis habilidades:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,9 +21,15 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🌱 Proyectos recientes:
+
+## 🌱 Proyectos:
+
 - [**Piedra, Papel o Tijera**](https://github.com/LucaCarena97/Piedra-Papel-o-Tijera)
 
-## 🚀 Conéctame:
-- [LinkedIn](https://www.linkedin.com/in/luca-carena-463855127/)
-- [Portfolio Web](https://luca-carena-web.vercel.app/)
+
+## 🚀 Contacto:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luca%20Carena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-carena-463855127/)](https://www.linkedin.com/in/luca-carena-463855127/)
+[![Portfolio Badge](https://img.shields.io/badge/-%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://luca-carena-web.vercel.app/)](https://luca-carena-web.vercel.app/)
+[![GitLab Badge](https://img.shields.io/badge/-Mi%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/lucacarena98)](https://gitlab.com/lucacarena98)
+
