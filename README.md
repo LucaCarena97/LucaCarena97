@@ -2,8 +2,7 @@
 
 # Hola, soy Luca 👋
 
-Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes. Me encanta enfrentar nuevos desafíos tecnológicos y siempre busco mejorar y aprender de manera continua. Mi objetivo es seguir creciendo profesionalmente y aportar ideas innovadoras al desarrollo web.
-
+Soy un desarrollador Full Stack con mayor enfoque en el front-end. Me apasiona crear aplicaciones web que no solo luzcan atractivas, sino que también funcionen de manera eficiente. Estoy en constante aprendizaje y busco siempre formas innovadoras de resolver problemas y mejorar procesos. Disfruto trabajar con nuevas herramientas y metodologías para garantizar resultados de calidad. Tengo experiencia trabajando en equipo y colaborando en diversos proyectos, lo que me ha permitido contribuir la realización y finalización de cada uno de ellos.
 
 ## 📚 Mis habilidades:
 
@@ -20,6 +19,14 @@ Soy un desarrollador web apasionado por crear soluciones atractivas y eficientes
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
 ## 💡 Proyectos Destacados:
