@@ -45,5 +45,15 @@ Soy un desarrollador Full Stack con mayor enfoque en el front-end. Me apasiona c
 [![Portfolio Badge](https://img.shields.io/badge/-%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://luca-carena-web.vercel.app/)](https://luca-carena-web.vercel.app/)
 [![GitLab Badge](https://img.shields.io/badge/-Mi%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/lucacarena98)](https://gitlab.com/lucacarena98)
 
+
 ## 📊 Estadísticas:
-![GitHub Commits Total](https://github-readme-stats.vercel.app/api?username=LucaCarena97&show_icons=true&include_all_commits=true&count_private=true&custom_title=Total%20Commits)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucaCarena97&show_icons=true&include_all_commits=true&count_private=true&custom_title=Mis%20Estadísticas&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCarena97&layout=compact&langs_count=6&theme=radical)
+
+## 🏆 Logros:
+![Trophy](https://github-profile-trophy.vercel.app/?username=LucaCarena97&theme=radical)
+
+## 🔥 Racha de contribuciones:
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaCarena97&theme=radical)
+
